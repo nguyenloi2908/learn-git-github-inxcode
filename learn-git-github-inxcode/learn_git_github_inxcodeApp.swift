@@ -11,7 +11,7 @@ import SwiftUI
 struct learn_git_github_inxcodeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }
